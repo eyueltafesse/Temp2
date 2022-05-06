@@ -1,0 +1,51 @@
+.Nav-component {
+  background: #162f5e;
+  height: 80px;
+  display: flex;
+  margin-top: auto;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  position: sticky;
+  border: none;
+  z-index: 10;
+  top: 5px;
+}
+
+.Navbar-Container {
+  display: flex;
+  justify-content: space-between;
+  height: 80px;
+  z-index: 1;
+  width: 100%;
+  padding: 0 24px;
+  max-width: 1100px;
+}
+
+.NavMenu {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  text-align: center;
+}
+
+.NavItem {
+  height: 80px;
+}
+
+.NavLink {
+  color: #fff;
+  display: flex;
+  align-items: center;
+  font-weight: normal;
+  text-decoration: none;
+  padding: 0 1rem;
+  height: 100%;
+  cursor: pointer;
+}
+
+p {
+  color: whitesmoke;
+  padding: 0 1rem;
+}

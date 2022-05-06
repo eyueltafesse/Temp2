@@ -1,0 +1,14 @@
+.work-row {
+    border-radius: 10px;
+    padding: 20px 0px;
+}
+
+.work-container {
+    padding: 20px 0px 0px 0px;
+    width: 60%;
+    margin: auto;
+}
+
+.footer-btn {
+    width: 80%;
+}

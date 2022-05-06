@@ -1,0 +1,99 @@
+.container {
+  min-height: 1100px;
+  display: flex;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0px;
+  z-index: 0;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background: white;
+}
+
+.wrapper {
+  display: flex;
+  height: 860px;
+  width: 100%;
+  max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 24px;
+  flex-direction: column;
+}
+
+.btn-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  gap: 10px;
+  padding: 1rem;
+}
+
+th {
+  background-color: #99cccc;
+  border: 1px solid #99cccc;
+  text-align: left;
+  padding: 8px;
+  font-size: 15px;
+}
+
+td {
+  border: 1px solid #99cccc;
+  text-align: left;
+  padding: 8px;
+  font-size: 20px;
+}
+.employee-list {
+  display: flex;
+  height: 860px;
+  width: 100%;
+  max-width: 1100px;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 24px;
+  flex-direction: column;
+}
+
+.form-search {
+  background: white;
+  display: flex;
+  flex-direction: column;
+  padding: 80px 32px;
+}
+label {
+  margin-bottom: 5px;
+  font-size: 20px;
+  color: #0c4a5c;
+}
+button {
+  margin-left: 20px;
+  margin-top: 14px;
+}
+h2 {
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+/* new style */
+
+.search-btn {
+  margin-top: 38px;
+  width: 120%;
+}
+
+.search-container {
+  padding: 20px 0px 0px 0px;
+  width: 60%;
+  margin: auto;
+}
+
+.form-row {
+  border-bottom: 1px solid #d7cbd8;
+  padding-bottom: 10px;
+}

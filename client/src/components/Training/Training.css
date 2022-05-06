@@ -1,0 +1,27 @@
+.training-container {
+  padding: 20px 0px 0px 0px;
+  width: 60%;
+  margin: auto;
+}
+
+.table-column {
+  overflow: auto;
+  margin-bottom: 6px;
+}
+
+.title {
+  margin-bottom: 40px;
+  margin-left: 20px;
+  margin-top: 28px;
+}
+
+.input-training {
+  padding: 3px 10px;
+  margin: 8px 0;
+}
+
+.option-training-select {
+  font-size: 12px;
+  font-style: italic;
+  display: inline-block;
+}

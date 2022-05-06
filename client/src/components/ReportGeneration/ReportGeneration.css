@@ -1,0 +1,22 @@
+.report-wrapper{
+    
+    height: 100;
+    overflow: 'hidden';
+    padding: 20px 5px 5px 0px;
+    width: 60%
+
+}
+.header {
+    padding-top: 200px;
+    padding-bottom: 20px;
+    margin-top: 150px
+}
+
+.table-data {
+    font-size: 17px;
+}
+
+.filter-title {
+    font-size: 20px;
+    font-weight: bold;
+}
